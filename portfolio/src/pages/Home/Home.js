@@ -8,8 +8,8 @@ function Home() {
     <div className='home'>
         <div className='about'>
             <h2>Hi, My Name is Shavon </h2>
-            <button><Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit">Resume</Link></button>
             <div className='promt'>
+            <button><Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit">Resume</Link></button>
                 <p>A fullstack developer with a talent for clean code & beautiful designs.</p>
                 <GitHub/>
                 <Email/>
