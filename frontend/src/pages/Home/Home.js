@@ -6,7 +6,8 @@ import './home.css'
 function Home() {
   return (
     <div className='home'>
-        <div className='about'>
+        <img href= "../assets/headshot.jpg" />
+                <div className='about'>
             <h2>Hi, My Name is Shavon </h2>
             <div className='promt'>
             <button><Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit">Resume</Link></button>
