@@ -10,7 +10,7 @@ function Home() {
             <h2>Hi, My Name is Shavon </h2>
             <div className='promt'>
             <button><Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit">Resume</Link></button>
-                <p>A fullstack developer with a talent for clean code & beautiful designs.</p>
+                <p>A fullstack developer with a talent for clean code & beautiful designs. My working career started with cars as a "Paint Tech" and then learned the skills to become a "Interior & Exterior Refinery Tech" in which I then started my own business. I then decided to persue my true passion in tech, of building, designing and watching peoples imaginations come alive by my hands. I believe i can be a huge asset to any company interested in me.</p>
                 <GitHub/>
                 <Email/>
                 <LinkedIn/>
@@ -29,7 +29,7 @@ function Home() {
                 </li>
                 <li className='item'>
                     <h2>Languages</h2>
-                    <span>JavaScript, Java, Python, C</span>
+                    <span>JavaScript, Java, Python, C+</span>
                 </li>
             </ol>
         </div>
