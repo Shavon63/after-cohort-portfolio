@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import {VerticalTimeline, VerticalTimelineElement} from "react-vertical-timeline-component"
 import "react-vertical-timeline-component/style.min.css"
 import SchoolIcon from "@mui/icons-material/School"
@@ -56,7 +57,7 @@ function Experience() {
             </VerticalTimelineElement>
         </VerticalTimeline>
         <div>
-            <button className='resume-button'><Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit">Resume</Link></button>
+            <button><Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit?usp=sharing">Resume</Link></button>
         </div>
     </div>
   )

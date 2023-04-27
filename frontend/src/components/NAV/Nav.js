@@ -24,7 +24,7 @@ function Nav() {
             <Link to="/">Home</Link>
             <Link to="/projects">Projects</Link>
             <Link to="/experience">Experience</Link>
-            <Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit">Resume</Link>
+            <Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit?usp=sharing">Resume</Link>
         </div>
         </div>
   )
