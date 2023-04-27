@@ -1,3 +1,8 @@
 .vertical-timeline-element--work icon{
     color: rgb(238, 238, 21);
 }
+
+button {
+    color: rgb(238, 238, 21);
+    list-style: none ;
+}
