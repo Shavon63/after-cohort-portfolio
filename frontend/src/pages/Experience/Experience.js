@@ -55,6 +55,9 @@ function Experience() {
                 <p>Highschool Diploma</p>
             </VerticalTimelineElement>
         </VerticalTimeline>
+        <div>
+            <button className='resume-button'><Link to="https://docs.google.com/document/d/1oiA_fnzx5cGoKzDaFf6rReXinmHberXqmtjkrKhDBp0/edit">Resume</Link></button>
+        </div>
     </div>
   )
 }

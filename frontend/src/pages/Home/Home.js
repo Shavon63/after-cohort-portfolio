@@ -6,7 +6,9 @@ import './home.css'
 function Home() {
   return (
     <div className='home'>
+        <div className='photo'>
         <img href= "../assets/headshot.jpg" />
+        </div>
                 <div className='about'>
             <h2>Hi, My Name is Shavon </h2>
             <div className='promt'>
@@ -18,7 +20,7 @@ function Home() {
             </div>
         </div>
         <div className='skills'>
-            <h1>skills</h1>
+            <h1>Stack skills</h1>
             <ol className='list'>
                 <li className='item'>
                     <h2>Front-end</h2>

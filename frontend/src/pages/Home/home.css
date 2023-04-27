@@ -4,6 +4,10 @@
     font-family: "Arial", sans-serif;
     color: #3e497a;
   }
+
+  .photo{
+    width: 70px
+  }
   
   .about {
     width: 100%;
@@ -22,6 +26,8 @@
     font-size: 80px;
     color: #e9d35b;
     height: 50px;
+    text-align: center;
+    width: 50%;
   }
   
   .about .prompt {
